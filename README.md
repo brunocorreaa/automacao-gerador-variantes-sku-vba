@@ -1,0 +1,1 @@
+# automacao-gerador-variantes-sku-vba
